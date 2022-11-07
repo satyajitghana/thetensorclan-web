@@ -1,6 +1,6 @@
 # TheTensorClan - Web
 
-## Website: [https://thetensorclan-web.herokuapp.com/](https://thetensorclan-web.herokuapp.com/)
+## Website: [https://thetensorclan-web.herokuapp.com/](https://thetensorclan-web.herokuapp.com/) or [https://tensorclan.theschoolof.ai/](https://tensorclan.theschoolof.ai/)
 
 ## 🎬 In Action
 
